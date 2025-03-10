@@ -84,3 +84,11 @@ p{
     padding-bottom: 50px;
     
 }
+#ptTit{
+    color:#4e2768;
+    text-align: center;
+}
+.ptImg{
+    width: 400px;
+    height: 400px;
+}
